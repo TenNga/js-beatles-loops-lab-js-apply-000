@@ -31,6 +31,6 @@ function iLoveTheBeatles(number){
   var temp = [];
   number++;
   do{
-    temp
+    temp.push
   }
 }
