@@ -31,6 +31,8 @@ function iLoveTheBeatles(number){
   var temp = [];
   number++;
   do{
-    temp.push
-  }
+    temp.push("I love the Beatles!")
+  } while(number < 15)
+  
+  return temp;
 }
